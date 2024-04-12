@@ -1,3 +1,5 @@
+# projeto galeria dinamica
+
 O que fazer?
 
 Conceitos Essenciais:
